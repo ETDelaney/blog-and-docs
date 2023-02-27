@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Notes
     weight: 20
-    #identifier: notes
+    identifier: notes
     PageRef: course/_index.md
   - name: Data science
     PageRef: course/data-science/_index.md
